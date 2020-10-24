@@ -1,7 +1,7 @@
 # 	🐟	🐟	🐟
 ## I'm Nicholas Fehlberg aka glenfish
 
-I'm a front end developer with a professional background in ecommerce, marketing, graphic design.
+I'm a front end developer with a professional background in ecommerce, graphic design and marketing
 
 🔭 I’m currently learning more about full stack web/app development
 
