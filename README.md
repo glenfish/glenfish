@@ -1,5 +1,5 @@
 # 	🐟	🐟	🐟
-## I'm Nicholas Fehlberg aka glenfish
+## I'm Nicholas Fehlberg... thanks for stopping by! :)
 
 I'm a front end developer with a professional background in ecommerce, graphic design and marketing
 
