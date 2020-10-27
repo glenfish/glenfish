@@ -1,5 +1,5 @@
 # 	🐟	🐟	🐟
-## I'm Nicholas Fehlberg... thanks for stopping in
+## I'm Nicholas Fehlberg... thanks for stopping by
 
 I'm a developer with a professional background in e-commerce, graphic design and marketing
 
