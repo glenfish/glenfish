@@ -1,10 +1,10 @@
 # 	🐟	🐟	🐟
 
-I'm a full stack developer, currently expanding my skills with Coder Academy in Melbourne, AU
+I'm a full stack developer, currently expanding my skills with Coder Academy in Australia
 
-💬  Interested in blockchain, human-machine interaction and IoT devices. If we're going to have Skynet, let's make sure we can control it
+💬   Im interested in systems that empower people and forms of commerce and interaction that benefit individuals and small communities.
 
-⚡   Useless facts: I'm a guitarist, a lover of 80's music and I've driven over 500k miles around the United States in a big rig. Collecting and modding mechanical keyboards and building computers are good ways to spend money and waste time. But I do them anyway.
+⚡   Useless facts: I'm a guitarist, a lover of 80's music and I've driven over 500k miles around the United States in a big rig. Collecting and modding mechanical keyboards and building gaming PC's are good ways to spend money and waste time. But I do them anyway.
 
-Everything is better after coffee.  
+Life is better with coffee.  
 
