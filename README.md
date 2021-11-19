@@ -1,6 +1,6 @@
 # 	🐟	🐟	🐟
 
-I'm a full stack developer, currently expanding my skills with Coder Academy in Australia
+My name is Nicholas Fehlberg and I'm a full stack web developer, currently expanding my skills with Coder Academy in Australia
 
 💬   Im interested in systems that empower people and forms of commerce and interaction that benefit individuals and small communities.
 
