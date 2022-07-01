@@ -1,6 +1,6 @@
 # 	🐟	🐟	🐟
 
-My name is Nicholas Fehlberg aka glenfish and I'm a full stack web developer, currently expanding my skills with Coder Academy in Australia
+Hello. My name is Nicholas Fehlberg aka glenfish and I'm a full stack web developer, currently expanding my skills with Coder Academy in Australia
 
 💬  &nbsp; Im interested in systems that empower people and forms of commerce and interaction that benefit individuals and small communities.
 
