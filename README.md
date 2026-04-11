@@ -1,8 +1,5 @@
 # 	🐟	🐟	🐟
 
-Hello. I'm, nicneon - web developer.
+part engineer, part void philosopher, debugging systems that are technically working but spiritually questionable
 
-💬  &nbsp; Im interested in systems that empower people and forms of commerce and interaction that benefit individuals and small communities.
-
-☕&nbsp; Life is better with coffee.  
-
+partly guilty about owning a truckload of domains for half-realized projects. LIFE (boat)
